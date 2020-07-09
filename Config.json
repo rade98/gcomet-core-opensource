@@ -1,0 +1,12 @@
+{
+	"database_host" : "localhost",
+	"database_user" : "iljevrad_control",
+	"database_pass" : "Panel123",
+	"database_name" : "iljevrad_controlify",
+	"database_port" : 3306,
+
+	"gamepanel_version" : "0.0.4",
+
+	"backup_directory" : "Backups",
+	"autoupdate" : true
+}
